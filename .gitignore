@@ -5,3 +5,7 @@ __pycache__/
 
 # IPython Notebook
 .ipynb_checkpoints
+
+# Emacs
+*~
+*#
